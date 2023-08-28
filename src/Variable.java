@@ -58,7 +58,7 @@ public class Variable {
 		System.out.print("´õÇÏ±â : ");
 		System.out.println(number5+number6);
 		
-		//2. »©±â(-)
+		//2. »©±â(-) 
 		System.out.print("»©±â : ");
 		System.out.println(number6-number5);
 		
